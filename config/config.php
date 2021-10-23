@@ -2,9 +2,9 @@
 	session_start();
 
 	// Define database
-	define('dbhost', 'wordpress.cs6royptlt8t.us-west-2.rds.amazonaws.com');
-	define('dbuser', 'wordpress');
-	define('dbpass', 'wordpress123');
+	define('dbhost', 'axies.cfky5hslylq4.us-east-2.rds.amazonaws.com');
+	define('dbuser', 'axies');
+	define('dbpass', 'axies1234');
 	define('dbname', 'rent');
 
 	// Connecting database
