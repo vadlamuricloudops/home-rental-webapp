@@ -127,7 +127,7 @@
       <div class="container">
         <div class="intro-text">
           <div class="intro-lead-in">Welcome to Aws and Devops Sessions!</div>
-          <div class="intro-heading text-uppercase">It's Nice To See You<br></div>
+          <div class="intro-heading text-uppercase">Ready for it !<br></div>
         </div>
       </div>
     </header>
