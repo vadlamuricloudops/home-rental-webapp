@@ -126,7 +126,7 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Welcome To Room Rental Registration!</div>
+          <div class="intro-lead-in">Welcome to Aws and Devops Sessions!</div>
           <div class="intro-heading text-uppercase">It's Nice To See You<br></div>
         </div>
       </div>
